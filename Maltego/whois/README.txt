@@ -1,0 +1,2 @@
+Uso en Maltego: Configurás este script como una transform local en Maltego (Transforms > New Local Transform Set > Agregá el comando python /ruta/al/script.py %input%). Al ejecutarlo en un dominio en el grafo, expande con nuevas entidades (Person, Email, NSRecord), permitiendo encadenar más transforms (e.g., de email a perfiles sociales).
+Requiere una API key de WhoisXML: modificar config.json.
